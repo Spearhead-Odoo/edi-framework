@@ -22,8 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [edi_account_oca](edi_account_oca/) | 18.0.1.0.0 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Define EDI Configuration for Account Moves
-[edi_exchange_template_oca](edi_exchange_template_oca/) | 18.0.1.0.0 | [![simahawk](https://github.com/simahawk.png?size=30px)](https://github.com/simahawk) | Allows definition of exchanges via templates.
-[edi_exchange_template_oca_json](edi_exchange_template_oca_json/) | 18.0.1.0.0 |  | EDI Exchange Template - Add JSON generator.
+[edi_exchange_template_oca](edi_exchange_template_oca/) | 18.0.1.1.0 | [![simahawk](https://github.com/simahawk.png?size=30px)](https://github.com/simahawk) | Allows definition of exchanges via templates.
 [edi_oca](edi_oca/) | 18.0.1.0.0 | [![simahawk](https://github.com/simahawk.png?size=30px)](https://github.com/simahawk) [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Define backends, exchange types, exchange records, basic automation and views for handling EDI exchanges.
 
 [//]: # (end addons)
